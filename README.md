@@ -5,7 +5,7 @@ Basic profile readme lol (used chatgpt for this).
 #### 🔧 Technologies & Tools
 - ⌨️ Python (not an expert, but always learning)
 - 💻 Visual Studio Code on Windows 11
-- 🤖 Discord Bot Development
+- 🤖 Discord Bot/Tools Development
 - 🎮 Gaming
 
 #### 📺 My YouTube Channel
