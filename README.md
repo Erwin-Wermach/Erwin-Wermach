@@ -14,8 +14,11 @@ Basic profile readme lol (used chatgpt for this).
 #### 📫 Contact Me
 - 💬 You can reach out to me on [Telegram](https://t.me/Erwin_ch) or Discord: @notrex.py.
 
-#### 🚀 GitHub Stats
+#### 🌟 My GitHub Stats
 ![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erwin-Wermach&show_icons=true)
+
+#### 💼 My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin-Wermach)
 
 #### 🎮 Gaming
 - 🎯 Currently Playing: [Dead Island]
