@@ -12,7 +12,7 @@ Basic profile readme lol (used chatgpt for this).
 - 🎥 Check it out if you want [YouTube channel](https://www.youtube.com/channel/UCGaeS_sY7RnvKTgSnz6R8YA)
 
 #### 📫 Contact Me
-- 💬 You can reach out to me on [Telegram](https://t.me/Erwin_ch) or Discord: @notrex.py.
+- 💬 You can reach out to me on [Telegram](https://t.me/Erwin_ch) or Discord: @haxxor.ss.
 
 #### 🌟 My GitHub Stats
 ![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erwin-Wermach&show_icons=true)
