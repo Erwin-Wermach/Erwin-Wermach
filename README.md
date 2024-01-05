@@ -8,11 +8,11 @@ Basic profile readme lol (used chatgpt for this).
 - 🤖 Discord Bot/Tools Development
 - 🎮 Gaming
 
-#### 📺 My YouTube Channel
-- 🎥 Check it out if you want [YouTube channel](https://www.youtube.com/channel/UCGaeS_sY7RnvKTgSnz6R8YA)
+#### 📺 My Rumble
+- 🎥 Check it out if you want [Rumble](https://rumble.com/c/c-5513067)
 
 #### 📫 Contact Me
-- 💬 You can reach out to me on [Telegram](https://t.me/Erwin_ch) or Discord: @haxxor.ss.
+- 💬 You can reach out to me on [Telegram](https://t.me/Erwin_ch)
 
 #### 🌟 My GitHub Stats
 ![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erwin-Wermach&show_icons=true)
